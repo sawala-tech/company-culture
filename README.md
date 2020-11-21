@@ -35,6 +35,6 @@ Perusahaan yang baik akan memberikan fasilitas untuk karyawannya untuk mengasah 
 ## 8. Beragam dan iklusif (Diverse and inclusive)
 Perusahaaan yang mengutamakan karyawannya, harus dapat memastikan keberagaman dan inklusifitas dapat terjadi di lingkungan kerja. Semua orang dapat memiliki kesempatan yang sama untuk mengutarakan pendapat dan pemikirannya.
 
-Kriteria tersebut adalah beberapa hal yang juga ingin dijalankan di SAWALA. Meskipun pada beberapa hal tentu pada pelaksanaannya tidak mudah. Namun setidaknya kita menjadi punya acuan terkait bagaiaman SAWALA sebagai perusahaan ingin memperlakukan orang-orang yang berkontribusi di dalamnya.
+Kriteria tersebut adalah beberapa hal yang juga ingin dijalankan di SAWALA. Meskipun pada beberapa hal tentu pada pelaksanaannya tentu tidak mudah. Namun setidaknya kita menjadi punya acuan terkait bagaiaman SAWALA sebagai perusahaan ingin memperlakukan orang-orang yang berkontribusi di dalamnya.
 
 Sebenarnya secara singkat, nilai-nilai tersebut juga sesuai dengan anjuran pepatah Sunda berikut, "Silih Asah, Silih Asih, Silih Asuh".
