@@ -16,3 +16,7 @@ Apakah perusahaan tersebuh ramah terhadap budaya kerja jarak jauh? Jika iya, mak
 
 ## 2. Komunikasi Asinkron (Asynchronous communication)
 Karena bekerja secara jarak jauh dan terkadang waktu terbaik untuk bekerja bagi setiap orang berbeda-beda, maka komunikasi harus dapat terjadi walau karyawan satu dan lainnya tidak bekerja dalam waktu yang sama. Dengan begitu, budaya tulisan dan dokumentasi yang jelas dan menjadi hal yang wajib menjadi hal utama yang diutamakan untuk diterapkan.
+
+## 3. Bekerja secara fokus (Deep work)
+Ketika karyawan dapat bekerja secara fokus dan tidak banyak interupsi, maka pekerjaan yang dihasilkan akan lebih baik dan dapat menguntungkan perusahaan lebih baik. Prinsip ini, berdasarkan buku "Deep Work" yang ditulis oleh Cal Newport.
+
