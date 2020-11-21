@@ -14,5 +14,4 @@ Apakah perusahaan tersebut mengutamakan bekerja jarak jauh? Jika ya, maka budaya
 Apakah perusahaan tersebuh ramah terhadap budaya kerja jarak jauh? Jika iya, maka budaya bekerjaan perusahaan sebenarnya mengutamakan semua karyawan harus hadir di kantor, namun karyawan diperbolehkan utnuk dapat bekerja secara jarak jauh di manapun ia berada.
 
 ## 2. Komunikasi Asinkron (Asynchronous communication)
-These companies create a culture where communication happens on your time, not everyone else’s. Asynchronous channels are the norm, and live chat and urgent requests are the exceptions.
 Karena bekerja secara jarak jauh dan terkadang waktu terbaik untuk bekerja bagi setiap orang berbeda-beda, maka komunikasi harus dapat terjadi walau karyawan satu dan lainnya tidak bekerja dalam waktu yang sama. Dengan begitu, budaya tulisan dan dokumentasi yang jelas dan menjadi hal yang wajib menjadi hal utama yang diutamakan untuk diterapkan.
