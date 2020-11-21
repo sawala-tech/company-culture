@@ -1,4 +1,5 @@
-# Kriteria Perusahaan yang Mengutamakan Karyawan (People-First Company) #UtamakanKaryawan
+# #UtamakanKaryawan 
+Kriteria Perusahaan yang Mengutamakan Karyawan (People-First Company) 
 
 Apakah seorang karyawan di sebuah perusahaan menjadi berkembang karena adanya fasilitas karaoke rutin tiap minggu? Atau karena ada fasilitas PS 5 di kantor? Atau makan siang gratis? Engga kayanya. Karyawan akan berkembang, kalo lingkungan kerjanya mendukung dia untuk bisa melakukan pekerjaan yang bermakna. Dan sebuah lingkungan perusahaan yang dapat memastikan keselarasan antara karir dan kehidupan pribadi.
 
