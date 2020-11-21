@@ -38,3 +38,8 @@ Perusahaaan yang mengutamakan karyawannya, harus dapat memastikan keberagaman da
 Kriteria tersebut adalah beberapa hal yang juga ingin dijalankan di SAWALA. Meskipun pada beberapa hal tentu pada pelaksanaannya tentu tidak mudah. Namun setidaknya kita menjadi punya acuan terkait bagaiaman SAWALA sebagai perusahaan ingin memperlakukan orang-orang yang berkontribusi di dalamnya.
 
 Sebenarnya secara singkat, nilai-nilai tersebut juga sesuai dengan anjuran pepatah Sunda berikut, "Silih Asah, Silih Asih, Silih Asuh".
+
+Beberapa pertanyaan berikut dapat dijadikan sebagai evaluasi untuk kriteria yang dijelaskan di atas:
+- Bagaimana kita dapat memelihara fleksibilitas & keselarasan bekerja karyawan kita?
+- Bagaimana kita dapat memastikan otonomi dan perencanaan mendatang?
+- Bagaiaman kita dapat mendukung karyawan kita untuk dapat tumbuh dan menjadi lebih baik?
