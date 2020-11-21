@@ -28,3 +28,13 @@ Jam kerja yang umum biasanya terjadi di jam 9 pagi hingga jam 5 sore. Perusahaan
 
 ## 6. Berorientasi hasil (Outcome-oriented)
 Perusahaan tidak usah terlalu khawatir tentang berapa lama waktu yang dihabiskan oleh karyawan untuk mengerjakan sesuatu, tapi lebih fokuslah pada apakah upaya karyawan memberikan hasil atau tidak. Perusahaan harus menentukan target dengan tolak ukur yang jelas, pemeriksaan hasil dan membuat berbagai perbaikan sejalan berjalannya pekerjaan tersebut.
+
+## 7. Pengembangan profesional (Professional development)
+Perusahaan yang baik akan memberikan fasilitas untuk karyawannya untuk mengasah dan meningkatkan kemampuan dan pengetahuan mereka melalui berbagai cara seperti fasilitas buku, konferensi dan kursus daring. Dan memiliki agenda konsultasi/mentoring/review untuk setiap karyawannya (regular 1-on-1’s), perencanaan karir dll.
+
+## 8. Beragam dan iklusif (Diverse and inclusive)
+Perusahaaan yang mengutamakan karyawannya, harus dapat memastikan keberagaman dan inklusifitas dapat terjadi di lingkungan kerja. Semua orang dapat memiliki kesempatan yang sama untuk mengutarakan pendapat dan pemikirannya.
+
+Kriteria tersebut adalah beberapa hal yang juga ingin dijalankan di SAWALA. Meskipun pada beberapa hal tentu pada pelaksanaannya tidak mudah. Namun setidaknya kita menjadi punya acuan terkait bagaiaman SAWALA sebagai perusahaan ingin memperlakukan orang-orang yang berkontribusi di dalamnya.
+
+Sebenarnya secara singkat, nilai-nilai tersebut juga sesuai dengan anjuran pepatah Sunda berikut, "Silih Asah, Silih Asih, Silih Asuh".
