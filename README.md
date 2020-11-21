@@ -20,3 +20,11 @@ Karena bekerja secara jarak jauh dan terkadang waktu terbaik untuk bekerja bagi 
 ## 3. Bekerja secara fokus (Deep work)
 Ketika karyawan dapat bekerja secara fokus dan tidak banyak interupsi, maka pekerjaan yang dihasilkan akan lebih baik dan dapat menguntungkan perusahaan lebih baik. Prinsip ini, berdasarkan buku "Deep Work" yang ditulis oleh Cal Newport.
 
+## 4. Durasi kerja yang pas (Sensible hours)
+Empat puluh jam atau kurang adalah waktu yang pas untuk bekerja. Perusahaan yang sehat mengerti bahwa tenaga dan pikiran karyawannya adalah sumber daya yang ada batasnya. Istirahat yang cukup, sangat penting untuk karyawan dapat menghasilkan pekerjaan terbaik mereka. Waktu bekerja yang panjang bertolak belakang dengan produktifitas yang ingin dicapai perusahaan.  
+
+## 5. Jadwal yang fleksibel (Flexible schedules)
+Jam kerja yang umum biasanya terjadi di jam 9 pagi hingga jam 5 sore. Perusahaan yang baik akan mendukung keseimbangan yang sehat antara pekerjaan, keluarga dan aspek kehidupan lainnya. Karyawan diberikan keleluasaan untuk menentukan jam kerja yang paling cocok untuk mereka. Dan membolehkan istirahat terlebih dahulu jika mentok.
+
+## 6. Berorientasi hasil (Outcome-oriented)
+Perusahaan tidak usah terlalu khawatir tentang berapa lama waktu yang dihabiskan oleh karyawan untuk mengerjakan sesuatu, tapi lebih fokuslah pada apakah upaya karyawan memberikan hasil atau tidak. Perusahaan harus menentukan target dengan tolak ukur yang jelas, pemeriksaan hasil dan membuat berbagai perbaikan sejalan berjalannya pekerjaan tersebut.
